@@ -1,2 +1,2 @@
-# Amazone_Clone
-The purpose of this project was to create a clone of the Amazon website using only HTML and CSS. The goal was to replicate the basic layout, design elements, and structure of the Amazon website to understand and practice front-end web development techniques.
+# Amazon Clone
+This is a clone of the Amazon website, built using HTML and CSS. The goal of this project was to create a functional and visually appealing e-commerce platform that mimics the core features and design of the Amazon website. In the future, I plan to enhance the project by integrating React to add more interactivity and dynamic functionality.
